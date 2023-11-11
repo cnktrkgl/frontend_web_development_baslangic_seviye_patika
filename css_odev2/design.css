@@ -1,0 +1,23 @@
+.img {
+    display: block;
+    margin: auto;
+}
+.table {
+    margin-left:auto; 
+    margin-right:auto;
+}
+.row1 {
+    background-color:#EEEEEE;
+}
+.row2_1{
+    background-color:#7EE5DA;
+}
+.row2_2 {
+    background-color:#70CCC2;
+}
+.row2_3 {
+    background-color:#62B3AA;
+}
+.div1 {
+    text-align: center;
+}
